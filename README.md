@@ -1,15 +1,17 @@
 # Formulário de Inscrição (Python)
 
-Aplicando desktop desenvolvida em **Python** utilizando **Tkinter com ttkbootstrap**, com foco em interface gráfica, organização de código e uso de biblioteca externas.
-O projeto simua um formulário de inscrição, permitinfo entrada de dados, troca dinâmica de temas e exibição das informações preenchidas.
+Aplicação desktop desenvolvida em **Python** utilizando **Tkinter com ttkbootstrap**, com foco em uma interface gráfica moderna e distribuição por meio de um executável para Windows.
 
 ## Preview
 ![Preview do projeto](assets/Formulario.gif)
 
+## Download
+[Baixar versão executável](output/FormularioInscricao.exe)
+
 ## Tecnologias Utilizadas
 - Python
 - Tkinter
-- ttkootstrap
+- ttbootstrap
 - Pillow (PIL)
 
 ## Funcionalidades
