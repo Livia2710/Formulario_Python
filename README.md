@@ -3,7 +3,7 @@
 Aplicação desktop desenvolvida em **Python** utilizando **Tkinter com ttkbootstrap**, com foco em uma interface gráfica moderna e distribuição por meio de um executável para Windows.
 
 ## Preview
-![Preview do projeto](assets/Formulario.gif)
+![Preview do projeto](assets/FormularioInscricao.gif)
 
 ## Download
 [Baixar versão executável](output/FormularioInscricao.exe)
