@@ -6,7 +6,7 @@ Aplicação desktop desenvolvida em **Python** utilizando **Tkinter com ttkboots
 ![Preview do projeto](assets/FormularioInscricao.gif)
 
 ## Download
-[Baixar versão executável](https://github.com/Livia2710/Formulario_Python/releases/dowload/v1.0.0/FormularioInscricao.exe)
+[Baixar versão executável](https://github.com/Livia2710/Formulario_Python/releases/latest)
 
 ## Tecnologias Utilizadas
 - Python
